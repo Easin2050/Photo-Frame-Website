@@ -1,6 +1,14 @@
-venv/
+# Python / Django
+.photo_env/
 __pycache__/
 *.pyc
-.env
 db.sqlite3
 media/
+
+# Node / Tailwind
+node_modules/
+package.json
+package-lock.json
+
+# OS
+.DS_Store
